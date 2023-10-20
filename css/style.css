@@ -8,6 +8,14 @@ header {
     height: 10vh;
 }
 
+.nav-link:hover {
+    color: white;
+}
+
+main {
+    padding-top: 15px;
+}
+
 body {
     
 }
@@ -18,19 +26,27 @@ body {
 
 .icon {
     font-size: 2rem;
-    color: rgb(139, 139, 139);
+    color: rgb(27, 118, 255);
     
 }
-
-
 
 .carousel-inner {
     height: 100%;
 }
 
 .card-body {
-    height: 260px;
+    /* height: 45vh; */
 }
+
+#logo {
+    height: 15vh;
+}
+
+footer {
+    background-color: rgb(61, 61, 61);
+    color: white;
+}
+
 
 @media(max-width:992px) {
     header {
