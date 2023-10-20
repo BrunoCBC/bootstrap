@@ -1,0 +1,39 @@
+* {
+    font-size: 16px;
+}
+
+
+header {
+    background-color: rgb(27, 118, 255);
+    height: 10vh;
+}
+
+body {
+    
+}
+
+.carousel-inner {
+    height: 40vh;
+}
+
+.icon {
+    font-size: 2rem;
+    color: rgb(139, 139, 139);
+    
+}
+
+
+
+.carousel-inner {
+    height: 100%;
+}
+
+.card-body {
+    height: 260px;
+}
+
+@media(max-width:992px) {
+    header {
+        height: 100%;
+    }
+}
