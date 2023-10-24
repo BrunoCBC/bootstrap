@@ -34,6 +34,10 @@ body {
     height: 100%;
 }
 
+.card{
+    height: 30rem;
+}
+
 .card-body {
     /* height: 45vh; */
 }
